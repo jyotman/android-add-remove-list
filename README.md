@@ -8,3 +8,5 @@ It is useful when we need to add steps or procedure for anything.
 This is how it looks
 
 ![image](http://jyotman94.pythonanywhere.com/static/recycler-list.gif)
+
+For complete guide visit - http://jyotman94.pythonanywhere.com/entry/creating-add-and-remove-type-list-using-recyclerview
