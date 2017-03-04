@@ -7,6 +7,6 @@ It is useful when we need to add steps or procedure for anything.
 
 This is how it looks
 
-![image](http://jyotman94.pythonanywhere.com/static/recycler-list.gif)
+![image](http://www.jyotman.xyz/images/recycler-list.gif)
 
-For complete guide visit - http://jyotman94.pythonanywhere.com/entry/creating-add-and-remove-type-list-using-recyclerview
+For complete guide visit - http://www.jyotman.xyz/post/creating-add-and-remove-type-list-using-recyclerview
